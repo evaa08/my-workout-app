@@ -1,11 +1,1 @@
-{
-  "name": "Pulse Workout Coach",
-  "short_name": "Pulse",
-  "description": "Guided workout timer with real exercise demonstrations.",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#0B0D0C",
-  "theme_color": "#0B0D0C",
-  "orientation": "portrait-primary",
-  "icons": []
-}
+{"name":"Pulse Workout Coach","short_name":"Pulse Coach","start_url":"./index.html","display":"standalone","background_color":"#10101d","theme_color":"#17172b","description":"Personal workout routine and set tracker"}
